@@ -27,6 +27,8 @@ domain: "berkaykarlik.github.io"
 url: "https://berkaykarlik.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: ""
 github_username:  berkaykarlik
+linkedin_username: berkaykarlik
+
 
 # Build settings
 theme: minima

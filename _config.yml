@@ -29,7 +29,7 @@ url: "https://berkaykarlik.github.io" # the base hostname & protocol for your si
 github_username:  berkaykarlik
 linkedin_username: berkaykarlik
 
-
+google_analytics: G-67C9MXX1T5
 # Build settings
 theme: minima
 plugins:
